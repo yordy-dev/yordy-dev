@@ -2,8 +2,8 @@
 
 ## Acerca de mi
 
-🚀 Estudiante de Ingeniería de Sistemas e Informática con experiencia en soporte técnico, redes y computación en la nube.
+🚀 Estudiante de Ingeniería de Sistemas e Informática  
+🔧 Experiencia en soporte técnico, redes y cloud computing  
+💡 Apasionado por el desarrollo de software, la administración de sistemas y la optimización de plataformas  
 
-💡 Apasionado por el desarrollo de software y la administración de sistemas, enfocado en crear soluciones eficientes que mejoren el rendimiento y la estabilidad de las plataformas.
-
-🎓 Construyendo una base sólida en ingeniería mediante práctica real, aprendizaje continuo y participación activa en proyectos tecnológicos.
+📚 Enfocado en construir soluciones eficientes y de alto rendimiento mientras perfecciono mis habilidades a través de proyectos reales.
