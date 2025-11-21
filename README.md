@@ -34,6 +34,11 @@
 
 ---
 
+## 🧩 Áreas de especialización
+🛠️ Soporte técnico | 🖥️ Hardware | ⚙️ Software  
+🌐 Redes | 📡 Conectividad | ☁️ Cloud  
+🔒 Seguridad básica | 📝 Documentación | 🔄 Mantenimiento
+
 
 
 
