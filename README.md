@@ -34,7 +34,6 @@
 
 ---
 
-## 📬 Contacto
-📧 Email: yordy.k.almerco@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/yordy-almerco
+
+
 
