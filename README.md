@@ -14,65 +14,55 @@
 
 ## `$ whoami`
 
-Soy estudiante de Ingeniería de Sistemas e Informática. Tengo experiencia brindando soporte técnico a usuarios, diagnosticando incidencias, realizando mantenimiento de equipos y apoyando la configuración de redes LAN/WiFi.
-
-Me interesa seguir creciendo en redes y ciberseguridad. Aprendo con laboratorios y herramientas prácticas de monitoreo y automatización.
-
-```yaml
-nombre: Yordy Almerco
-experiencia: soporte TI y conectividad
-enfoque_actual: redes y ciberseguridad
-forma_de_trabajar: diagnosticar → resolver → documentar
-```
+<p align="center">
+  <img src="assets/whoami.svg" width="960" alt="Yordy Almerco: estudiante de Ingeniería de Sistemas con experiencia en soporte TI y enfoque en redes">
+</p>
 
 ---
 
 ## `$ cat tech-stack.yaml`
 
-<table>
+<div align="center">
+<table border="1" cellpadding="16">
+  <thead><tr><th colspan="2" align="left"><code>yordy@network:~$ cat tech-stack.yaml</code></th></tr></thead>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 / Soporte y sistemas</h3>
-      <p>Windows · Linux básico · GLPI<br>AnyDesk · TeamViewer · Diagnóstico</p>
-      <sub>Atención a usuarios, equipos e incidencias.</sub>
+      <code>├─ soporte_y_sistemas:</code><br><br>
+      <img src="https://skillicons.dev/icons?i=windows,linux" height="44" alt="Windows y Linux"><br><br>
+      <sub><code>Windows · Linux básico · GLPI<br>AnyDesk · TeamViewer · Diagnóstico</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>02 / Redes</h3>
-      <p>LAN/WiFi · Routers básicos · Cisco<br>VLAN · DHCP · ACL</p>
-      <sub>Conectividad y laboratorios de redes.</sub>
+      <code>├─ redes:</code><br><br>
+      <img src="https://skillicons.dev/icons?i=cisco" height="44" alt="Cisco"><br><br>
+      <sub><code>LAN/WiFi · Routers básicos · Cisco<br>VLAN · DHCP · ACL</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 / Automatización y monitoreo</h3>
-      <p>PowerShell · Windows · CIM<br>Monitoreo · Alertas a Discord</p>
-      <sub>Scripts y seguimiento de recursos del sistema.</sub>
+      <code>├─ automatización_y_monitoreo:</code><br><br>
+      <img src="https://skillicons.dev/icons?i=powershell" height="44" alt="PowerShell"><br><br>
+      <sub><code>PowerShell · Windows · CIM<br>Monitoreo · Alertas a Discord</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>04 / Desarrollo y herramientas</h3>
-      <p>Git · Java · Python básico<br>Next.js · TypeScript</p>
-      <sub>Herramientas usadas en proyectos y aprendizaje.</sub>
+      <code>╰─ desarrollo_y_herramientas:</code><br><br>
+      <img src="https://skillicons.dev/icons?i=git,java,python,nextjs,ts" height="44" alt="Git, Java, Python, Next.js y TypeScript"><br><br>
+      <sub><code>Git · Java · Python básico<br>Next.js · TypeScript</code></sub>
     </td>
   </tr>
+  <tfoot><tr><td colspan="2" align="left"><code>base: soporte TI · rumbo: redes y ciberseguridad</code></td></tr></tfoot>
 </table>
+</div>
 
 ---
 
 ## `$ netstat --focus-areas`
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/focus-map-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/focus-map-light.svg">
-    <img src="assets/focus-map-light.svg" width="920" alt="Mapa de enfoque: soporte TI, redes y aprendizaje en ciberseguridad">
-  </picture>
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/support-flow-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/support-flow-light.svg">
-    <img src="assets/support-flow-light.svg" width="920" alt="Flujo de soporte: incidencia, diagnóstico, solución y documentación">
-  </picture>
-</div>
+<p align="center">
+  <img src="assets/focus-card.svg" width="390" alt="Enfoque: soporte TI, redes y aprendizaje en ciberseguridad">&nbsp;
+  <img src="assets/support-card.svg" width="390" alt="Proceso: escuchar, diagnosticar, resolver y registrar">
+</p>
+
+<p align="center"><sub><code>signals: experiencia práctica · aprendizaje continuo · documentación</code></sub></p>
 
 ---
 

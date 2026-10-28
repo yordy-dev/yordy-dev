@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="320" viewBox="0 0 430 320" role="img" aria-labelledby="title desc">
+<title id="title">Mapa de enfoque</title><desc id="desc">Soporte TI y redes como experiencia; ciberseguridad como área de aprendizaje.</desc>
+<rect width="430" height="320" rx="17" fill="#111b2b"/><rect x="15" y="15" width="400" height="290" rx="12" fill="none" stroke="#315b75"/>
+<text x="32" y="48" fill="#70d7d0" font-family="Consolas,monospace" font-size="15">01 / focus-map</text>
+<text x="32" y="78" fill="#f1f7ff" font-family="Arial,sans-serif" font-size="24" font-weight="700">Áreas de enfoque</text>
+<path d="M74 143h49M221 143h47" stroke="#4da9d5" stroke-width="3"/><path d="m115 135 10 8-10 8m145-16 10 8-10 8" fill="none" stroke="#4da9d5" stroke-width="3"/>
+<circle cx="53" cy="143" r="14" fill="#2a77ab"/><circle cx="177" cy="143" r="14" fill="#288caa"/><circle cx="319" cy="143" r="14" fill="#207c83"/>
+<text x="32" y="202" fill="#ebf7ff" font-family="Arial,sans-serif" font-size="18" font-weight="700">Soporte TI</text><text x="32" y="224" fill="#9cb6ca" font-family="Arial,sans-serif" font-size="14">Experiencia práctica</text>
+<text x="157" y="202" fill="#ebf7ff" font-family="Arial,sans-serif" font-size="18" font-weight="700">Redes</text><text x="157" y="224" fill="#9cb6ca" font-family="Arial,sans-serif" font-size="14">Enfoque actual</text>
+<text x="284" y="202" fill="#ebf7ff" font-family="Arial,sans-serif" font-size="18" font-weight="700">Seguridad</text><text x="284" y="224" fill="#9cb6ca" font-family="Arial,sans-serif" font-size="14">Aprendiendo</text>
+<path d="M32 252h366" stroke="#315b75"/><text x="32" y="282" fill="#80a5bc" font-family="Consolas,monospace" font-size="13">ruta: práctica → aprendizaje</text>
+</svg>
