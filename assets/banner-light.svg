@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="260" viewBox="0 0 1100 260" role="img" aria-labelledby="title desc">
+  <title id="title">Yordy Almerco · IT Support, Networking and Cybersecurity</title>
+  <desc id="desc">A clean blue network-inspired banner for a light background.</desc>
+  <rect width="1100" height="260" rx="24" fill="#f6f8fa"/>
+  <path d="M-30 190C130 100 185 270 328 165S544 78 672 154s203 33 458-116" fill="none" stroke="#58a6ff" stroke-width="3" opacity=".55"/>
+  <path d="M-10 68c146 68 218-48 360 14s181 111 327 36 242-36 442 54" fill="none" stroke="#0969da" stroke-width="2" opacity=".35"/>
+  <g fill="#0969da"><circle cx="140" cy="126" r="7"/><circle cx="328" cy="165" r="7"/><circle cx="672" cy="154" r="7"/><circle cx="911" cy="101" r="7"/></g>
+  <g fill="#fff" stroke="#0969da" stroke-width="3"><rect x="795" y="42" width="210" height="150" rx="18"/><path d="M846 104h108M846 126h66M846 148h89"/><circle cx="825" cy="104" r="7" fill="#0969da"/><circle cx="825" cy="126" r="7" fill="#0969da"/><circle cx="825" cy="148" r="7" fill="#0969da"/></g>
+  <text x="96" y="105" fill="#1f2328" font-family="Arial, sans-serif" font-size="44" font-weight="700">Yordy Almerco</text>
+  <text x="98" y="145" fill="#57606a" font-family="Arial, sans-serif" font-size="20">IT Support · Networking · Cybersecurity</text>
+  <text x="98" y="184" fill="#0969da" font-family="monospace" font-size="16">&gt; profile.status: building practical IT skills</text>
+</svg>

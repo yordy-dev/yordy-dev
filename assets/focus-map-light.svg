@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="260" viewBox="0 0 920 260" role="img" aria-labelledby="title desc">
+  <title id="title">Mapa de enfoque profesional</title><desc id="desc">Soporte TI, Redes y Ciberseguridad conectados en una ruta de aprendizaje.</desc>
+  <rect width="920" height="260" rx="20" fill="#f6f8fa"/>
+  <text x="48" y="52" fill="#57606a" font-family="monospace" font-size="15">focus-map.yml</text>
+  <path d="M250 132h92M532 132h92" stroke="#0969da" stroke-width="4"/><path d="m333 120 16 12-16 12M615 120l16 12-16 12" fill="none" stroke="#0969da" stroke-width="4"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle"><rect x="48" y="86" width="202" height="94" rx="18" fill="#ddf4ff" stroke="#54aeff"/><text x="149" y="124" fill="#0969da" font-size="22" font-weight="700">Soporte TI</text><text x="149" y="151" fill="#57606a" font-size="14">usuarios · incidencias</text><rect x="348" y="86" width="184" height="94" rx="18" fill="#eaf2ff" stroke="#54aeff"/><text x="440" y="124" fill="#0969da" font-size="22" font-weight="700">Redes</text><text x="440" y="151" fill="#57606a" font-size="14">LAN/WiFi · conectividad</text><rect x="630" y="86" width="242" height="94" rx="18" fill="#f1f8ff" stroke="#54aeff"/><text x="751" y="124" fill="#0969da" font-size="22" font-weight="700">Ciberseguridad</text><text x="751" y="151" fill="#57606a" font-size="14">aprendizaje continuo</text></g>
+  <text x="48" y="223" fill="#57606a" font-family="Arial, sans-serif" font-size="14">Ruta de especialización construida a partir de experiencia práctica y formación técnica.</text>
+</svg>
