@@ -29,24 +29,24 @@
     <td width="50%" valign="top">
       <code>├─ soporte_y_sistemas:</code><br><br>
       <img src="https://skillicons.dev/icons?i=windows,linux" height="44" alt="Windows y Linux"><br><br>
-      <sub><code>Windows · Linux básico · GLPI<br>AnyDesk · TeamViewer · Diagnóstico</code></sub>
+      <sub><code>Windows · Linux básico · GLPI</code><br><code>AnyDesk · TeamViewer · Diagnóstico</code></sub>
     </td>
     <td width="50%" valign="top">
       <code>├─ redes:</code><br><br>
       <img src="https://skillicons.dev/icons?i=cisco" height="44" alt="Cisco"><br><br>
-      <sub><code>LAN/WiFi · Routers básicos · Cisco<br>VLAN · DHCP · ACL</code></sub>
+      <sub><code>LAN/WiFi · Routers básicos · Cisco</code><br><code>VLAN · DHCP · ACL</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <code>├─ automatización_y_monitoreo:</code><br><br>
       <img src="https://skillicons.dev/icons?i=powershell" height="44" alt="PowerShell"><br><br>
-      <sub><code>PowerShell · Windows · CIM<br>Monitoreo · Alertas a Discord</code></sub>
+      <sub><code>PowerShell · Windows · CIM</code><br><code>Monitoreo · Alertas a Discord</code></sub>
     </td>
     <td width="50%" valign="top">
       <code>╰─ desarrollo_y_herramientas:</code><br><br>
       <img src="https://skillicons.dev/icons?i=git,java,python,nextjs,ts" height="44" alt="Git, Java, Python, Next.js y TypeScript"><br><br>
-      <sub><code>Git · Java · Python básico<br>Next.js · TypeScript</code></sub>
+      <sub><code>Git · Java · Python básico</code><br><code>Next.js · TypeScript</code></sub>
     </td>
   </tr>
   <tfoot><tr><td colspan="2" align="left"><code>base: soporte TI · rumbo: redes y ciberseguridad</code></td></tr></tfoot>
