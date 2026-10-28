@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="310" viewBox="0 0 960 310" role="img" aria-labelledby="t d">
-<title id="t">Yordy Almerco — Soporte TI y redes</title><desc id="d">Banner claro con una red de nodos y una consola de conectividad.</desc>
+<title id="t">Yordy Almerco — Soporte TI y redes</title><desc id="d">Banner claro con nodos de conectividad y una consola.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f7fbff"/><stop offset=".55" stop-color="#eaf4ff"/><stop offset="1" stop-color="#dceeff"/></linearGradient><linearGradient id="line" x2="1"><stop stop-color="#007cad"/><stop offset="1" stop-color="#3158c2"/></linearGradient></defs>
 <rect width="960" height="310" rx="20" fill="url(#bg)"/>
 <g opacity=".15" stroke="#3e7dab"><path d="M0 62h960M0 124h960M0 186h960M0 248h960M80 0v310M160 0v310M240 0v310M320 0v310M400 0v310M480 0v310M560 0v310M640 0v310M720 0v310M800 0v310M880 0v310"/></g>
