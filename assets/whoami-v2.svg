@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+<title id="title">Yordy Almerco en una terminal</title><desc id="desc">Estudiante de Ingeniería de Sistemas e Informática con experiencia en soporte TI y enfoque en redes.</desc>
+<rect width="960" height="260" fill="#101319"/><rect width="960" height="36" fill="#202632"/>
+<circle cx="22" cy="18" r="5" fill="#ec6a5e"/><circle cx="39" cy="18" r="5" fill="#f4bf50"/><circle cx="56" cy="18" r="5" fill="#61c454"/>
+<text x="80" y="23" fill="#aab6c7" font-family="Consolas,monospace" font-size="13">yordy@network: ~</text>
+<text x="34" y="76" fill="#45d6db" font-family="Consolas,monospace" font-size="17">$ whoami</text>
+<text x="34" y="111" fill="#f1f5fb" font-family="Consolas,monospace" font-size="23" font-weight="700">Yordy Almerco</text>
+<text x="34" y="144" fill="#aebdcc" font-family="Consolas,monospace" font-size="16">Estudiante de Ingeniería de Sistemas e Informática</text>
+<text x="34" y="177" fill="#e5edf5" font-family="Consolas,monospace" font-size="15">Experiencia en soporte a usuarios, mantenimiento y redes LAN/WiFi.</text>
+<text x="34" y="206" fill="#e5edf5" font-family="Consolas,monospace" font-size="15">Enfoque actual: redes · Aprendiendo: ciberseguridad y automatización.</text>
+<text x="34" y="239" fill="#45d6db" font-family="Consolas,monospace" font-size="15">$ <tspan fill="#d6e1ed">_</tspan></text>
+</svg>

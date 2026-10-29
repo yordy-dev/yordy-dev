@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="330" viewBox="0 0 390 330" role="img" aria-labelledby="t d">
+<title id="t">Herramientas y aprendizaje</title><desc id="d">PowerShell, Git, Java, Python básico, Cisco y ciberseguridad en formación. El gráfico agrupa temas, no mide niveles.</desc>
+<rect width="390" height="330" fill="#101319"/><text x="25" y="37" fill="#eaf2fc" font-family="Consolas,monospace" font-size="17" font-weight="700">HERRAMIENTAS Y RUMBO</text><text x="25" y="57" fill="#8499ad" font-family="Consolas,monospace" font-size="11">mapa temático / sin puntuaciones</text>
+<g fill="none" stroke="#334455" stroke-width="1"><path d="M195 79 276 124 276 214 195 259 114 214 114 124Z"/><path d="M195 104 252 136 252 202 195 234 138 202 138 136Z"/><path d="M195 129 228 148 228 190 195 209 162 190 162 148Z"/><path d="M195 169V79M195 169l81-45M195 169l81 45M195 169v90M195 169l-81 45M195 169l-81-45"/></g>
+<path d="M195 87 268 128 268 210 195 251 122 210 122 128Z" fill="#2468a4" fill-opacity=".28" stroke="#67a6ff" stroke-width="2"/>
+<g fill="#67a6ff"><circle cx="195" cy="87" r="4"/><circle cx="268" cy="128" r="4"/><circle cx="268" cy="210" r="4"/><circle cx="195" cy="251" r="4"/><circle cx="122" cy="210" r="4"/><circle cx="122" cy="128" r="4"/></g>
+<g fill="#cbd8e4" font-family="Consolas,monospace" font-size="11"><text x="158" y="76">PowerShell</text><text x="284" y="124">Git</text><text x="284" y="218">Java</text><text x="166" y="280">Python*</text><text x="62" y="219">Cisco</text><text x="24" y="124">Seguridad*</text></g>
+<text x="25" y="312" fill="#6f899e" font-family="Consolas,monospace" font-size="11">* conocimientos en desarrollo</text>
+</svg>

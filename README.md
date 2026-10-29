@@ -15,7 +15,7 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami.svg" width="960" alt="Yordy Almerco: estudiante de Ingeniería de Sistemas con experiencia en soporte TI y enfoque en redes">
+  <img src="assets/whoami-v2.svg" width="960" alt="Yordy Almerco: estudiante de Ingeniería de Sistemas con experiencia en soporte TI y enfoque en redes">
 </p>
 
 ---
@@ -23,33 +23,45 @@
 ## `$ cat tech-stack.yaml`
 
 <div align="center">
-<table border="1" cellpadding="16">
+<table border="1" cellpadding="14" bgcolor="#101319">
   <thead><tr><th colspan="2" align="left"><code>yordy@network:~$ cat tech-stack.yaml</code></th></tr></thead>
   <tr>
     <td width="50%" valign="top">
       <code>├─ soporte_y_sistemas:</code><br><br>
       <img src="https://skillicons.dev/icons?i=windows,linux" height="44" alt="Windows y Linux"><br><br>
-      <sub><code>Windows · Linux básico · GLPI</code><br><code>AnyDesk · TeamViewer · Diagnóstico</code></sub>
+      <sub><code>Windows · Linux básico · GLPI</code></sub>
     </td>
     <td width="50%" valign="top">
       <code>├─ redes:</code><br><br>
       <img src="https://skillicons.dev/icons?i=cisco" height="44" alt="Cisco"><br><br>
-      <sub><code>LAN/WiFi · Routers básicos · Cisco</code><br><code>VLAN · DHCP · ACL</code></sub>
+      <sub><code>LAN/WiFi · Cisco · VLAN · DHCP · ACL</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <code>├─ automatización_y_monitoreo:</code><br><br>
+      <code>├─ monitoreo_y_soporte:</code><br><br>
       <img src="https://skillicons.dev/icons?i=powershell" height="44" alt="PowerShell"><br><br>
-      <sub><code>PowerShell · Windows · CIM</code><br><code>Monitoreo · Alertas a Discord</code></sub>
+      <sub><code>PowerShell · CIM · Alertas a Discord</code></sub>
     </td>
     <td width="50%" valign="top">
-      <code>╰─ desarrollo_y_herramientas:</code><br><br>
+      <code>├─ desarrollo_y_herramientas:</code><br><br>
       <img src="https://skillicons.dev/icons?i=git,java,python,nextjs,ts" height="44" alt="Git, Java, Python, Next.js y TypeScript"><br><br>
       <sub><code>Git · Java · Python básico</code><br><code>Next.js · TypeScript</code></sub>
     </td>
   </tr>
-  <tfoot><tr><td colspan="2" align="left"><code>base: soporte TI · rumbo: redes y ciberseguridad</code></td></tr></tfoot>
+  <tr>
+    <td width="50%" valign="top">
+      <code>├─ asistencia_remota:</code><br><br>
+      <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=flat-square" height="28" alt="AnyDesk"> <img src="https://img.shields.io/badge/TeamViewer-0E8EE7?style=flat-square" height="28" alt="TeamViewer"><br><br>
+      <sub><code>Usuarios · Incidencias · Diagnóstico</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <code>╰─ aprendizaje_actual:</code><br><br>
+      <img src="https://img.shields.io/badge/Ciberseguridad-177E89?style=flat-square" height="28" alt="Ciberseguridad"> <img src="https://img.shields.io/badge/Automatizaci%C3%B3n-315EA8?style=flat-square" height="28" alt="Automatización"><br><br>
+      <sub><code>Redes · Seguridad · Servicios en la nube</code></sub>
+    </td>
+  </tr>
+  <tfoot><tr><td colspan="2" align="left"><code>yordy@network:~$ status --práctica-y-aprendizaje</code></td></tr></tfoot>
 </table>
 </div>
 
@@ -58,11 +70,11 @@
 ## `$ netstat --focus-areas`
 
 <p align="center">
-  <img src="assets/focus-card.svg" width="390" alt="Enfoque: soporte TI, redes y aprendizaje en ciberseguridad">&nbsp;
-  <img src="assets/support-card.svg" width="390" alt="Proceso: escuchar, diagnosticar, resolver y registrar">
+  <img src="assets/radar-practice.svg" width="390" alt="Mapa temático de práctica: soporte, Windows, GLPI, equipos, redes y monitoreo">&nbsp;
+  <img src="assets/radar-tools.svg" width="390" alt="Mapa temático de herramientas y aprendizaje: PowerShell, Git, Java, Python básico, Cisco y seguridad">
 </p>
 
-<p align="center"><sub><code>signals: experiencia práctica · aprendizaje continuo · documentación</code></sub></p>
+<p align="center"><sub><code>signals: práctica técnica · herramientas · aprendizaje continuo · sin puntuaciones</code></sub></p>
 
 ---
 
